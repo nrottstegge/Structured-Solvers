@@ -1,4 +1,4 @@
-gj#include <stdio.h>
+#include <stdio.h>
 #include <cuda.h>
 
 #define THREADS 256   // Threads per block
